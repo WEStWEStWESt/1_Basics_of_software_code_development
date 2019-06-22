@@ -12,6 +12,7 @@ public class TaskTwoLinearPrograms {
     2. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
     ((b + √(b^2 + 4ac))/2a)− a^3*c + b^(−2).
     */
+
     public static void main(String[] args) {
 
         int a = generatePositiveNumber();

@@ -22,12 +22,11 @@ public class TaskFiveLinearPrograms {
                 int minutes = (inputSeconds - hours * 3600) / 60;
                 int seconds = inputSeconds - (hours * 3600 + minutes * 60);
 
-                System.out.println(hours + " ч " + minutes + " мин " + seconds + " с.");
+                System.out.format("%02d" + "ч " + "%02d" + "мин " + "%02d" + "с.", hours, minutes, seconds);
 
             } else {
                 System.out.println("Input error.");
             }
-
         } catch (InputMismatchException e) {
             throw new Exception("Invalid number format: " + e.getMessage());
         }

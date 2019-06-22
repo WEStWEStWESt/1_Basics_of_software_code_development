@@ -1,10 +1,8 @@
 package by.epam.lab.training;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class TaskSixLinearPrograms {
-
     /*
     Basics_of_software_code_development.
 
