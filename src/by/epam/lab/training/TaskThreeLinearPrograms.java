@@ -2,11 +2,15 @@ package by.epam.lab.training;
 
 import java.util.Random;
 
-import static java.lang.Math.cos;
-import static java.lang.Math.sin;
-import static java.lang.Math.tan;
+import static java.lang.Math.*;
 
 public class TaskThreeLinearPrograms {
+    /*
+        Basics_of_software_code_development.
+
+        3. Вычислить значение выражения по формуле
+        (все переменные принимают действительные значения):
+        */
 
     public static void main(String[] args) {
 
