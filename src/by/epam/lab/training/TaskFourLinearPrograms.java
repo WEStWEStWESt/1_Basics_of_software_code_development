@@ -5,7 +5,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class TaskFourLinearPrograms {
+    /*
+        Basics_of_software_code_development.
 
+        4. Дано действительное число R вида nnn.ddd (три цифровых разряда в дробной и целой частях).
+        Поменять местами дробную и целую части числа и вывести полученное значение числа.
+        */
     private static final Random random = new Random();
     private static final double MIN = 100.0;
     private static final double MAX = 999.0;
