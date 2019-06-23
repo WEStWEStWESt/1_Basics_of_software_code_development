@@ -8,7 +8,8 @@ public class BranchesTaskFive {
     /*
     Basics_of_software_code_development
 
-    5. Вычислить значение функции: F(x)... */
+    5. Вычислить значение функции: F(x)...
+    */
 
     public static void main(String[] args) {
 
