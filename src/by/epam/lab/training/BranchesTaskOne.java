@@ -1,6 +1,6 @@
 package by.epam.lab.training;
 
-public class TaskOneBranches {
+public class BranchesTaskOne {
     /*
     Basics_of_software_code_development.
 
