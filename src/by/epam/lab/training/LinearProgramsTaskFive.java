@@ -3,7 +3,7 @@ package by.epam.lab.training;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class TaskFiveLinearPrograms {
+public class LinearProgramsTaskFive {
     /*
     Basics_of_software_code_development.
 

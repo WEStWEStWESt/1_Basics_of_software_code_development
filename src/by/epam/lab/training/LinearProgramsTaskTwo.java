@@ -5,7 +5,7 @@ import java.util.Random;
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
-public class TaskTwoLinearPrograms {
+public class LinearProgramsTaskTwo {
     /*
     Basics_of_software_code_development.
 

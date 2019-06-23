@@ -2,7 +2,7 @@ package by.epam.lab.training;
 
 import java.util.Scanner;
 
-public class TaskOneLinearPrograms {
+public class LinearProgramsTaskOne {
     /*
     Basics_of_software_code_development.
 
