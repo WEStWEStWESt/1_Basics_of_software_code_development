@@ -2,8 +2,6 @@ package by.epam.lab.training;
 
 import java.util.Scanner;
 
-import static java.lang.Integer.parseInt;
-
 public class CyclesTaskOne {
     /*
     Basics_of_software_code_development
@@ -14,12 +12,12 @@ public class CyclesTaskOne {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Input a positive integer number: ");
-            int number = parseInt(scanner.nextLine());
+            int number = scanner.nextInt();
             int result = 0;
 
             if (number > 0) {
                 for (int i = 0; i <= number; i++) {
-                    result = result + i;
+                    result += i;
                 }
                 System.out.println(result);
             } else {
