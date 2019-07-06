@@ -3,6 +3,7 @@ package by.epam.lab.training;
 import java.util.Scanner;
 
 public class LinearProgramsTaskSix {
+
     /*
     Basics_of_software_code_development.
 

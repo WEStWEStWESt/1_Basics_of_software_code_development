@@ -5,10 +5,11 @@ import java.util.Scanner;
 import static java.lang.Math.pow;
 
 public class BranchesTaskFive {
+
     /*
     Basics_of_software_code_development
 
-    5. Вычислить значение функции: F(x)...
+    5. Вычислить значение функции: F(x) = x^2-3x+9 если x<=3  и   1/(x^3+6) если x>3
     */
 
     public static void main(String[] args) {
