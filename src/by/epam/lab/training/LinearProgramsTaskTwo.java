@@ -6,6 +6,7 @@ import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
 public class LinearProgramsTaskTwo {
+
     /*
     Basics_of_software_code_development.
 

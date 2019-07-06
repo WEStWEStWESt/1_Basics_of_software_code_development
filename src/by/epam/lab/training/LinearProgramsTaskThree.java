@@ -5,6 +5,7 @@ import java.util.Random;
 import static java.lang.Math.*;
 
 public class LinearProgramsTaskThree {
+
     /*
         Basics_of_software_code_development.
 
