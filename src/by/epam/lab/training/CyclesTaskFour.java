@@ -1,6 +1,6 @@
 package by.epam.lab.training;
 
-import static java.lang.Math.pow;
+import java.math.BigInteger;
 
 public class CyclesTaskFour {
 
@@ -11,9 +11,9 @@ public class CyclesTaskFour {
     */
 
     public static void main(String[] args) {
-        long product = 1;
-        for (int i = 1; i <= 200; i++) {
-            product *= pow(i, 2);
+        BigInteger product = BigInteger.ONE;
+        for (BigInteger i = BigInteger.ONE; i.longValue() <= 200; i = i.add(BigInteger.ONE)) {
+            product = product.multiply(i.pow(2));
         }
         System.out.println("PRODUCTS of squares of the first two hundred numbers: " + product);
     }
