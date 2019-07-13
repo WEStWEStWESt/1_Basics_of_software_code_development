@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CyclesTaskSeven {
 
     /*
-    Basics_of_software_code_development
+     Basics_of_software_code_development
 
      7. Для каждого натурального числа в промежутке от m до n вывести все делители,
      кроме единицы и самого числа. m и n вводятся с клавиатуры.*/
