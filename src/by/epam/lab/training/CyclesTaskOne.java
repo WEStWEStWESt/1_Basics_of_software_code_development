@@ -8,7 +8,8 @@ public class CyclesTaskOne {
     Basics_of_software_code_development
 
     1. Напишите программу, где пользователь вводит любое целое положительное число,
-       а программа суммирует все числа от 1 до введенного пользователем числа.*/
+       а программа суммирует все числа от 1 до введенного пользователем числа.
+    */
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
@@ -20,7 +21,7 @@ public class CyclesTaskOne {
                 for (int i = 0; i <= number; i++) {
                     result += i;
                 }
-                System.out.println(result);
+                System.out.println("result is: " + result);
             } else {
                 System.out.println("Incorrect number! The program will be closed.");
             }
